@@ -1,4 +1,4 @@
-![hat of ReadME](https://github.com/haxbxbdbhshs/Palatine-Speech-Node-n8n/blob/main/hat.png)
+![hat of ReadME](https://github.com/haxbxbdbhshs/ReadMe-On-Ru-Lang-For-Palatine-Node/blob/main/hat.png)
 
 # n8n-nodes-palatine-speech
 
@@ -77,7 +77,7 @@
 4. `Create record` → Создание записи в таблице
 5. `Telegram` → Отправка результата в чат
 
-![workflow example](https://github.com/haxbxbdbhshs/Palatine-Speech-Node-n8n/blob/main/example_workflow.png)
+![workflow example](https://github.com/haxbxbdbhshs/ReadMe-On-Ru-Lang-For-Palatine-Node/blob/main/WorkflowExample.png)
 
 ## Варианты использования
 
