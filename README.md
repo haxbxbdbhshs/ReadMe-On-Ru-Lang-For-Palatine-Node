@@ -2,7 +2,6 @@
 
 # n8n-nodes-palatine-speech
 
----
 
 > Разработано для бесшовной интеграции **Palatine Speech** в воркфлоу n8n.
 
@@ -11,7 +10,6 @@
 
 ## Навигация
 
----
 [Поддерживаемые задачи (Tasks)](#поддерживаемые-задачи-tasks)\
 [Установка](#установка)\
 [Учётные данные (Credentials)](#учётные-данные-credentials)\
@@ -24,7 +22,6 @@
 
 ##  Поддерживаемые задачи (Tasks)
 
----
 Подробнее о каждой задаче можно узнать из документации [Palatine Speech](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
 * [Полный список поддерживаемых файлов доступен по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_files)
 * [Полный список поддерживаемых языков доступен по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_languages)
@@ -49,7 +46,6 @@
 
 ## Установка
 
----
 1. В вашем экземпляре n8n перейдите в **Settings → Community Nodes → Install new**
 2. Введите: `n8n-nodes-palatine-speech`
 3. Нажмите **Install**
@@ -59,7 +55,6 @@
 
 ## Учётные данные (Credentials)
 
----
 1. Перейдите в **Credentials → + Create**
 2. Найдите **Palatine Speech API**
 3. Заполните поля:
@@ -70,7 +65,6 @@
 
 ## Пример воркфлоу
 
----
 1. `Webhook` → Получение аудиофайла
 2. `Config` → Конфигурация параметров
 3. `Palatine Speech` → Транскрибация файла
@@ -81,7 +75,6 @@
 
 ## Варианты использования
 
----
 * **Итоги по встречам** \
 Для записей встреч и интервью рекомендуется использовать `Summarize` (`meeting_summary`): формируется краткое резюме, перечень решений и задач; результат при необходимости направляется в командный чат.\
 Для нестандартных запросов в `Summarize` укажите `Prompt` и задайте требуемую инструкцию, например: «Дополнительно структурируй договорённости по срокам и ответственным».
@@ -96,12 +89,10 @@
 На основе результата автоматически создаются тикеты в CRM и назначается приоритет обработки.
 ## Совместимость
 
----
 Эта нода была протестирована на версиях n8n ≥ 1.39.1
 
 ## Полезные ресурсы
 
----
 * [Документация Palatine Speech](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
 * [Руководство по Community Nodes в n8n](https://docs.n8n.io/integrations/community-nodes/)
 * [Официальный GitHub n8n](https://github.com/n8n-io/n8n)
