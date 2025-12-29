@@ -26,8 +26,8 @@
 
 ---
 Подробнее о каждой задаче можно узнать из документации [Palatine Speech](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
-* [Полный список поддерживаемых файлов доступе по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_files)
-* [Полный список поддерживаемых языков доступе по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_languages)
+* [Полный список поддерживаемых файлов доступен по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_files)
+* [Полный список поддерживаемых языков доступен по ссылке](https://docs.speech.palatine.ru/documentation/technical_information/supported_languages)
 
 ###  [Transcribe — транскрибация речи](https://docs.speech.palatine.ru/documentation/quick_start/transcription)
 
